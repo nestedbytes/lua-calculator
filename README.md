@@ -4,6 +4,6 @@
 git clone https://github.com/shourgamer2/lua-calculator
 ``` 
 ```sh
-lua54 calc.lua
+lua54.exe calc.lua
 ```
 
